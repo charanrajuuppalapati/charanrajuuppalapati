@@ -12,8 +12,8 @@ I lead DevOps and platform engineering for **clinical products** at IQVIA — en
 
 | Scope | Details |
 |-------|---------|
-| **Team** | 39 DevOps engineers |
-| **Products** | 12 clinical platforms |
+| **Role** | DevOps & platform engineering leadership |
+| **Domain** | Clinical product platforms in regulated healthcare |
 | **Location** | Durham, North Carolina, USA |
 | **Focus** | Cloud platforms, GitOps, CI/CD, SRE & observability |
 
